@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Conversor</string>
+    <string-array name="_moedas">
+        <item>Dólar Americano (USD)</item>
+        <item>Dólar Australiano (AUD)</item>
+        <item>Euro (EUR)</item>
+        <item>Libra Esterlina (GBP)</item>
+        <item>Peso Argentino (ARS)</item>
+    </string-array>
+
+</resources>
